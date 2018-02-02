@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "WorkoutContextConnection": "Server=(localdb)\\MSSQLLocalDB; Database=HealthPlatformDb; Trusted_connection=True; MultipleActiveResultSets=True;"
+  }
+}
